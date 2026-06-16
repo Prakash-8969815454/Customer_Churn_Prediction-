@@ -1,7 +1,7 @@
 ## Customer_Churn_Prediction
 ## Overview 
-This project predict whether a telcom customer is likely to leave the company using machine learning techiniques.
-Customer churn prediction helps telcom companies identify customers who may stop using their services and take preventive actions to retain them.
+This project predict whether a telecom customer is likely to leave the company using machine learning techiniques.
+Customer churn prediction helps telecom companies identify customers who may stop using their services and take preventive actions to retain them.
 
 ## Problem  Statement
 Customer retention  is one of the biggest challenges in the telecom industy. The goal of this project is to build ML model that can predict customer churn  based on customer details and service usage patterns.
